@@ -39,6 +39,7 @@
             this.txtOutput.Name = "txtOutput";
             this.txtOutput.Size = new System.Drawing.Size(424, 81);
             this.txtOutput.TabIndex = 0;
+            this.txtOutput.TextChanged += new System.EventHandler(this.txtOutput_TextChanged);
             // 
             // frmIce3
             // 

@@ -19,7 +19,7 @@ namespace Ice3
 
         private void frmIce3_Load(object sender, EventArgs e)
         {
-            txtOutput.Text = "Ice3 Version 1.0";
+            txtOutput.Text = "Ice3 Version 1.1";
         }
     }
 }
